@@ -206,7 +206,9 @@ ZooKeeper 采用 ACL（AccessControlLists）策略来进行权限控制，类似
 
 Watcher（事件监听器），是 ZooKeeper 中的一个很重要的特性。ZooKeeper 允许用户在指定节点上注册一些 Watcher，并且在一些特定事件触发的时候，ZooKeeper 服务端会将事件通知到感兴趣的客户端上去，该机制是 ZooKeeper 实现分布式协调服务的重要特性。
 
-![watcher机制](images/watche机制.png)
+![watcher机制](images/watche机制.png)  
+![image](https://user-images.githubusercontent.com/29095252/130460988-c42dc05f-2872-4c3b-9842-94eb7338daf3.png)
+
 
 _破音：非常有用的一个特性，都能出小本本记好了，后面用到 ZooKeeper 基本离不开 Watcher（事件监听器）机制。_
 
