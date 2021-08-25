@@ -453,8 +453,6 @@ Redis 通过**IO 多路复用程序** 来监听来自客户端的大量连接（
 
 <p style="text-align:right; font-size:14px; color:gray">《Redis设计与实现：12章》</p>  
 
-![image](https://user-images.githubusercontent.com/29095252/130731010-d7a6caae-02bf-408f-a0b5-6d588f4b9777.png)
-
 
 ### 8. Redis 没有使用多线程？为什么不使用多线程？
 
