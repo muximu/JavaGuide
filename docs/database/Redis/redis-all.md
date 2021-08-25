@@ -452,6 +452,7 @@ Redis 通过**IO 多路复用程序** 来监听来自客户端的大量连接（
 ![](images/redis-all/redis事件处理器.png)
 
 <p style="text-align:right; font-size:14px; color:gray">《Redis设计与实现：12章》</p>  
+
 ![image](https://user-images.githubusercontent.com/29095252/130731010-d7a6caae-02bf-408f-a0b5-6d588f4b9777.png)
 
 
